@@ -1,3 +1,5 @@
+readme_url:  https://mohammad-724.github.io/spiral-animation/
+
 # Python Spiral Code
 
 A lightweight Python repository containing two distinct implementations of spiral logic: a visual **Turtle Graphics** renderer and a data-structure-focused **Matrix Traversal** algorithm.
